@@ -29,5 +29,5 @@ This implementation is heavily inspired by:
 
 ### Reference
 
-**MTCNN: **[Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/abs/1604.02878).
+**MTCNN:** [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/abs/1604.02878).
 
