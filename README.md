@@ -12,8 +12,6 @@ image = show_bboxes(image, bounding_boxes, landmarks)
 image.show()
 ```
 
-For examples see `test_on_images.ipynb`.
-
 ### Requirements
 
 - pytorch 0.4
