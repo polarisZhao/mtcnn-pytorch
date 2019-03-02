@@ -7,7 +7,7 @@ Just download the repository and then do this
 
 ```
 from src.detector import detect_faces
-from utils.visualization_utils import show_bboxes
+from src.utils import show_bboxes
 from PIL import Image
 
 image = Image.open('images/test3.jpg')
