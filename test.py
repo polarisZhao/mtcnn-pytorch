@@ -1,5 +1,5 @@
 from src.detector import detect_faces
-from utils.visualization_utils import show_bboxes
+from src.utils import show_bboxes
 from PIL import Image
 
 def main():
